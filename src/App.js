@@ -1,7 +1,9 @@
 import './App.css'
 import logo from './girl-todo.png'
-
+import {useState} from 'react'
 function App() {
+  const [toDos,setToDos] = useState([])
+  const [toDo,setToDo] = useState('')
   return (
     <div className="div1">
       <span className="nav">Sandra Rosa Antony</span>

@@ -53,13 +53,13 @@ color: #B0B0B0;
   margin-top: 0.8em;
   width: 18em;
   height: 2em;
-  background-color: white;
   display: flex;
   justify-content: space-between;
   align-items: center;
   border-radius: 6px;
   padding: 5px;
   margin-left: 6%;
+  color: black;
   }
   .app2 {
     display: flex;
@@ -98,7 +98,7 @@ color: #B0B0B0;
   width: 20em;
   height: 2em;
   font-size: small;
-  color:#FFFFFF
+  color:gray
   }
   .app2 .type2{
     background: rgba(255, 211, 95, 0.46);
