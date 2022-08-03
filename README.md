@@ -1,5 +1,7 @@
 # To Do App with React js
-<img src="https://github.com/Sandra-Rosa/react-to-do-app-/issues/1#issue-1326641628">
+<img src='https://github.com/Sandra-Rosa/personalwebsite/blob/main/sandra%20-%20Google%20Chrome%2003-06-2022%2007_40_05%20PM.png?raw=true'>
+<a href="https://main--fabulous-alpaca-3c8782.netlify.app/" target="_blank">View personal website</a>
+
 
 # Getting Started with Create React App
 
