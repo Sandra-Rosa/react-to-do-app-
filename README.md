@@ -1,6 +1,6 @@
 # To Do App with React js
 <img src='https://github.com/Sandra-Rosa/react-to-do-app-/blob/main/Todo-App.jpeg?raw=true'>
-<a href="https://main--fabulous-alpaca-3c8782.netlify.app/" target="_blank">View personal website</a>
+<a href="https://vermillion-wisp-2468b2.netlify.app/">View To-Do App</a>
 
 
 # Getting Started with Create React App
